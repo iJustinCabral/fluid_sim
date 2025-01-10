@@ -1,0 +1,5 @@
+package sim
+
+main :: proc () {
+
+}
